@@ -8,7 +8,7 @@
 cnpm install
 
 然后  webpack  运行，打开index.html
-
+---------------
 ### 技术栈
   vue-wechat是主要在利用Vue.js * 实现了微信app及很多细节。
 
